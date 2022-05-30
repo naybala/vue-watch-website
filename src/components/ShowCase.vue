@@ -1,5 +1,5 @@
 <template>
-  <section class="p-5 p-lg-0 pt-lg-5 text-center text-sm-start">
+  <section class="p-5 p-lg-0 pt-lg-5 text-center text-sm-start" data-aos="fade-down">
     <div class="container">
       <div class="d-sm-flex align-items-center justify-content-between">
         <img

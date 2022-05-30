@@ -2,7 +2,7 @@
   <section class="p-5">
     <div class="container">
       <div class="row text-center g-4">
-        <div class="col-md">
+        <div class="col-md" data-aos="fade-right">
           <div class="card bg-dark text-light">
             <div class="card-body text-center">
               <div class="h1 mb-3">
@@ -35,7 +35,7 @@
             ><h1><i class="bi bi-chevron-down"></i></h1
           ></a>
         </div>
-        <div class="col-md">
+        <div class="col-md" data-aos="fade-left">
           <div class="card bg-dark text-light">
             <div class="card-body text-center">
               <div class="h1 mb-3">
