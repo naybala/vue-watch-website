@@ -50,11 +50,10 @@
   cursor: pointer;
 
   @media (min-width: 40em) {
-    grid-template-rows: repeat(2, 20vh);
+    grid-template-rows: repeat(5, 18vh);
   }
 
   @media (min-width: 10em) and (orientation: landscape) {
-    grid-template-columns: repeat(5, 18vw);
     grid-template-rows: repeat(2, 45vh);
   }
 
@@ -86,47 +85,18 @@ img {
     border-radius: 5px;
     width: 200%;
     height: 200%;
-    left: -100%;
-    top: -100%;
+    left: -50%;
+    top: -50%;
 
-    @media (min-width: 10em) and (orientation: landscape) {
-      width: 250%;
-      height: 200%;
-    }
-
-    @media (min-width: 40em) {
-      width: 250%;
-      height: 200%;
-      left: -75%;
-      top: -200%;
-    }
-
-    @media (min-width: 40em) and (orientation: portrait) {
+    // @media (min-width: 10em) {
+    //   width: 210%;
+    //   height: 205%;
+    // }
+    @media (min-width: 60rem) and (orientation: landscape) {
       width: 300%;
-      height: 300%;
-      left: -100%;
-      top: -100%;
-    }
-
-    @media (min-width: 60em) {
-      width: 350%;
-      height: 150%;
-      left: -75%;
-      top: -25%;
-
+      height: 250%;
       ~ img {
-        left: 175%;
-      }
-    }
-
-    @media (min-width: 60em) and (orientation: landscape) {
-      width: 300%;
-      height: 300%;
-      left: -75%;
-      top: -100%;
-
-      ~ img {
-        left: 100%;
+        left: 100px;
       }
     }
   }
