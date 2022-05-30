@@ -8,7 +8,7 @@
           alt=""
         />
         <div>
-          <h1><span class="text-dark"> Amaz-fit Gallery </span></h1>
+          <h1><span class="text-dark"> Amaz-fit Global </span></h1>
           <p class="lead my-4">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, neque. Lorem
             ipsum dolor sit amet consectetur adipisicing elit. Facere, maiores.

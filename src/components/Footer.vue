@@ -8,7 +8,7 @@
           <div class="footerSvgOne">
             <img
               class="img-fluid d-none d-sm-block"
-              src="../assets/happy_news.svg"
+              src="../assets/no_time_footer2.svg"
               alt=""
             />
           </div>
@@ -66,7 +66,7 @@
           <div class="footerSvgTwo">
             <img
               class="img-fluid d-none d-sm-block"
-              src="../assets/certificate.svg"
+              src="../assets/no_time_footer.svg"
               alt=""
             />
           </div>

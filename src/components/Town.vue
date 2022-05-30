@@ -93,3 +93,17 @@
     </div>
   </section>
 </template>
+
+<style scoped>
+img {
+  cursor: pointer;
+  transform: translate(0px);
+  transition: 0.3s;
+}
+
+img:hover {
+  transform: translateY(-10px);
+  box-shadow: 3px 3px 10px black;
+  transition: 0.3s;
+}
+</style>

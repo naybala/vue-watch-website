@@ -49,3 +49,17 @@
     </div>
   </section>
 </template>
+
+<style scoped>
+img {
+  cursor: pointer;
+  transform: translateX(0px);
+  transition: 0.3s;
+}
+
+img:hover {
+  transform: translateX(10px);
+  box-shadow: 3px 3px 10px rgb(161, 161, 161);
+  transition: 0.3s;
+}
+</style>

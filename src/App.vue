@@ -69,17 +69,6 @@ body::before {
   content: "";
   height: 60px;
 }
-img {
-  cursor: pointer;
-  transform: translateX(0px);
-  transition: 0.3s;
-}
-
-img:hover {
-  transform: translateX(-10px);
-  box-shadow: 3px 3px 10px black;
-  transition: 0.3s;
-}
 
 #map {
   width: 100%;
