@@ -33,6 +33,7 @@ import Gts3Pro from "./components/Gts3Pro.vue";
 import TRexPro from "./components/TRexPro.vue";
 import Town from "./components/Town.vue";
 import Footer from "./components/Footer.vue";
+
 export default {
   name: "App",
   components: {
@@ -67,6 +68,17 @@ body::before {
   display: block;
   content: "";
   height: 60px;
+}
+img {
+  cursor: pointer;
+  transform: translateX(0px);
+  transition: 0.3s;
+}
+
+img:hover {
+  transform: translateX(-10px);
+  box-shadow: 3px 3px 10px black;
+  transition: 0.3s;
 }
 
 #map {

@@ -12,7 +12,7 @@
               data-bs-toggle="collapse"
               data-bs-target="#question-one"
             >
-              Where exactly are you located?
+              Can i Buy Offline? Where?
             </button>
           </h2>
           <div
@@ -39,7 +39,7 @@
               data-bs-toggle="collapse"
               data-bs-target="#question-two"
             >
-              How much does it cost to attend?
+              Does it Cheap Or Expensive
             </button>
           </h2>
           <div
@@ -66,7 +66,7 @@
               data-bs-toggle="collapse"
               data-bs-target="#question-three"
             >
-              What do I need to Know?
+              Which Os uesd?
             </button>
           </h2>
           <div
@@ -93,7 +93,7 @@
               data-bs-toggle="collapse"
               data-bs-target="#question-four"
             >
-              How Do I sign up?
+              Does it support Ios or Andriod ?
             </button>
           </h2>
           <div
@@ -120,7 +120,7 @@
               data-bs-toggle="collapse"
               data-bs-target="#question-five"
             >
-              Do you help me find a job?
+              Installation Zepp App user Guide
             </button>
           </h2>
           <div
