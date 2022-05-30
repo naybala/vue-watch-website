@@ -8,6 +8,7 @@
     <ShowCase />
     <Box />
     <WatchGallery />
+    <GalllerySection />
     <Gtr3Pro />
     <Gts3Pro />
     <TRexPro />
@@ -33,6 +34,7 @@ import Gts3Pro from "./components/Gts3Pro.vue";
 import TRexPro from "./components/TRexPro.vue";
 import Town from "./components/Town.vue";
 import Footer from "./components/Footer.vue";
+import GalllerySection from "./components/GalllerySection.vue";
 
 export default {
   name: "App",
@@ -50,6 +52,7 @@ export default {
     TRexPro,
     Town,
     Footer,
+    GalllerySection,
   },
   data: () => ({
     loading: true,
