@@ -57,4 +57,15 @@
 
 <script></script>
 
-<style></style>
+<style scoped>
+.btn {
+  transform: translateY(0);
+  transition: 0.3s;
+}
+
+.btn:hover {
+  transform: translateY(-10px);
+  box-shadow: 3px 3px 10px black;
+  transition: 0.3s;
+}
+</style>

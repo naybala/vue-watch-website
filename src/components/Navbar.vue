@@ -36,8 +36,19 @@
 
 <script></script>
 
-<style>
+<style scoped>
 nav {
   z-index: 100;
+}
+a {
+  transform: translateY(0);
+  transition: 0.3s;
+}
+
+a:hover {
+  border-radius: 0.5rem;
+  transform: translateY(-10px);
+  box-shadow: 3px 3px 10px rgb(204, 202, 202);
+  transition: 0.3s;
 }
 </style>

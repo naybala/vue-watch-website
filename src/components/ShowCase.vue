@@ -86,6 +86,17 @@
   border-bottom-right-radius: 5rem;
 }
 
+button {
+  transform: translateY(0);
+  transition: 0.3s;
+}
+
+button:hover {
+  transform: translateY(-10px);
+  box-shadow: 3px 3px 10px black;
+  transition: 0.3s;
+}
+
 @media (max-width: 1100px) {
   .container-left,
   .container-right {
