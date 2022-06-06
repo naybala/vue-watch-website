@@ -2,7 +2,7 @@
   <section id="learn" class="p-5 bg-dark text-light">
     <div class="container">
       <div class="row align-items-center justify-content-between">
-        <div class="col-md p-5">
+        <div class="col-md p-lg-0 pt-lg-5 text-center text-sm-start">
           <h2>Amaz Fit Gtr-3 Pro</h2>
           <p class="lead">
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique deleniti
@@ -27,12 +27,14 @@
               </h2>
               <div id="readMore-Two" class="accordion-collapse collapse">
                 <div class="accordion-body">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam beatae
-                  fuga animi distinctio perspiciatis adipisci velit maiores totam tempora
-                  accusamus modi explicabo accusantium consequatur, praesentium rem
-                  quisquam molestias at quos vero. Officiis ad velit doloremque at.
-                  Dignissimos praesentium necessitatibus natus corrupti cum consequatur
-                  aliquam! Minima molestias iure quam distinctio velit.
+                  <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam
+                    beatae fuga animi distinctio perspiciatis adipisci velit maiores totam
+                    tempora accusamus modi explicabo accusantium consequatur, praesentium
+                    rem quisquam molestias at quos vero. Officiis ad velit doloremque at.
+                    Dignissimos praesentium necessitatibus natus corrupti cum consequatur
+                    aliquam! Minima molestias iure quam distinctio velit.
+                  </p>
                 </div>
               </div>
             </div>

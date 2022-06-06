@@ -92,8 +92,15 @@ body::before {
   .lead {
     font-size: 1rem;
   }
+  h2 {
+    font-size: 1.2rem;
+  }
+  p .lead {
+    font-size: 0.8rem;
+    text-align: justify;
+  }
   p {
-    font-size: 0.9rem;
+    font-size: 0.7rem;
   }
 }
 </style>
