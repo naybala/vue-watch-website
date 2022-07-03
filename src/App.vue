@@ -67,6 +67,10 @@ export default {
 </script>
 
 <style>
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
 body::before {
   display: block;
   content: "";
